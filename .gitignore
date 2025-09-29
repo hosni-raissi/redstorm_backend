@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+api/__pycache__/
+agents/__pycache__/
+utils/__pycache__/
+ollama/
+# IDE
+.idea/
+.vscode/
+.venv/
+test/
+*.json
+redstorm-env/
+
+
